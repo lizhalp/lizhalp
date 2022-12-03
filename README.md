@@ -5,4 +5,4 @@ I'm learning python, and I'm interested in data science. I've made a few basic i
 automation tools, and I intend to release them here. 
 
 Have a good day!
-- Liz (she/her)
+-- Liz (she/her)
